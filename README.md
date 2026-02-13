@@ -2,6 +2,10 @@
 
 An interactive 3x3 grid application built with Next.js, TypeScript, and Tailwind CSS. Each box follows specific recursive rules when clicked.
 
+## 🚀 Live Demo
+
+**[View Live Demo](https://gridchallenge-ia9wy3xqn-saurabh-singhs-projects-40f058a5.vercel.app/)**
+
 ## Features
 
 - **Interactive Grid**: Click any box to increment its value
@@ -23,8 +27,8 @@ An interactive 3x3 grid application built with Next.js, TypeScript, and Tailwind
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd recursive-grid-challenge
+git clone https://github.com/saurabh12nxf/grid_challenge.git
+cd grid_challenge
 ```
 
 2. Install dependencies:
